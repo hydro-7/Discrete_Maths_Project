@@ -30,9 +30,9 @@ Requirements :
 
 # Team Members : 
 
-1) Paarth Batra : (123cs0022)
-2) Rineet Pandey : (123cs0009)
-3) Dhruv Singh : (523cs0009)
-4) Akash Pandey : (523cs0002)
-5) Rohan : (123cs0003)
-6) Harsh Rajput : (523cs0005)
+1) Paarth Batra : [(123cs0022)]([url](https://www.linkedin.com/in/paarth-batra-034613278/))
+2) Rineet Pandey : [(123cs0009)]([url](https://www.linkedin.com/in/rineet-pandey-8aa4112a8/))
+3) Dhruv Singh : [(523cs0009)]([url](https://www.linkedin.com/in/dhruv-singh-b12768285/))
+4) Akash Pandey : [(523cs0002)]([url](https://www.linkedin.com/in/akash-pandey-3388bb2a7/))
+5) Rohan : [(123cs0003)]([url](https://www.linkedin.com/in/rohan-93201432a/))
+6) Harsh Rajput : [(523cs0005)]([url](https://www.linkedin.com/in/harsh-rajput-891842330/))
