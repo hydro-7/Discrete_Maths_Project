@@ -16,8 +16,23 @@ To calculate this Transitive Closure, we use the Warshall's Algorithm which has 
 
 
 Images from the sample inputs :
+
 ![image](https://github.com/user-attachments/assets/92acd2de-87b0-4f08-861b-782d848963da)
 
 ![image](https://github.com/user-attachments/assets/8ecbc2d1-aaba-4ffd-8df5-b6b763e83875)
 
 
+# To run the file on your local system : 
+
+Requirements : 
+- Have a version of python > `3.12.4`.
+- Have the libraries of Custom Tkinter and Matplotlib installed. 
+
+# Team Members : 
+
+1) Paarth Batra : (123cs0022)
+2) Rineet Pandey : (123cs0009)
+3) Dhruv Singh : (523cs0009)
+4) Akash Pandey : (523cs0002)
+5) Rohan : (123cs0003)
+6) Harsh Rajput : (523cs0005)
